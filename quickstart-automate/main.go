@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, automate build!")
+  fmt.Println("Hello, universe!")
 }
